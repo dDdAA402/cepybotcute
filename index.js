@@ -61,7 +61,7 @@ const exampleEmbed = new Discord.MessageEmbed()
   
 
 
-client.login('NzIwOTM4OTg0MDY2MzgzODk0.XuikGA.9sGLYQbbsD-aYYx4ZQP-TxeB0bY');
+client.login('NzI5MjY2MDE3MTg4MTg0MDc0.Xwx6lQ.7yorUEwhVUL1HjziFT4jZtsfxcU');
 
 
 // Create an instance of a Discord client
@@ -128,7 +128,7 @@ client.on('message', message => {
 });
 
 // Log our bot in using the token from https://discordapp.com/developers/applications/me
-client.login('NzIwOTM4OTg0MDY2MzgzODk0.XuikGA.9sGLYQbbsD-aYYx4ZQP-TxeB0bY');
+client.login('NzI5MjY2MDE3MTg4MTg0MDc0.Xwx6lQ.7yorUEwhVUL1HjziFT4jZtsfxcU');
 
 client.on('ready', () => {
     
@@ -185,7 +185,7 @@ client.on('ready', () => {
   });
   
   // Log our bot in using the token from https://discordapp.com/developers/applications/me
-  client.login('NzIwOTM4OTg0MDY2MzgzODk0.XuikGA.9sGLYQbbsD-aYYx4ZQP-TxeB0bY');
+  client.login('NzI5MjY2MDE3MTg4MTg0MDc0.Xwx6lQ.7yorUEwhVUL1HjziFT4jZtsfxcU');
 
   client.on('ready', () => {
     
@@ -202,7 +202,7 @@ client.on('ready', () => {
   });
   
   // Log our bot in using the token from https://discordapp.com/developers/applications/me
-  client.login('NzIwOTM4OTg0MDY2MzgzODk0.XuikGA.9sGLYQbbsD-aYYx4ZQP-TxeB0bY');
+  client.login('NzI5MjY2MDE3MTg4MTg0MDc0.Xwx6lQ.7yorUEwhVUL1HjziFT4jZtsfxcU');
 
   
 
@@ -326,7 +326,7 @@ client.on('ready', () => {
     
   
   
-  client.login('NzIwOTM4OTg0MDY2MzgzODk0.XuikGA.9sGLYQbbsD-aYYx4ZQP-TxeB0bY');
+  client.login('NzI5MjY2MDE3MTg4MTg0MDc0.Xwx6lQ.7yorUEwhVUL1HjziFT4jZtsfxcU');
   
 
   
